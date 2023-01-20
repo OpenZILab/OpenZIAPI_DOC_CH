@@ -319,12 +319,6 @@ let callback={
 ## 服务参考
 - TMS服务（地形和3Dtiels）：http://localhost:9003/model/tsUCob4zC/tileset.json
 - TMS服务（影像）：http://localhost:9003/image/tms/PuFyKKcg/tilemapresource.xml
-- WMS服务，如图：
-![](http://117.172.238.229:5010/server/index.php?s=/api/attachment/visitFile&sign=7253f03c01af9cdcfa202af8d5b8b347)
-- TMS影像服务格式，参考文件：
-[meta.json](http://117.172.238.229:5010/server/index.php?s=/api/attachment/visitFile&sign=fe95f6978f16df2a40f5bb8d08ae914e "[meta.json")
-- TMS地形和3Dtiels服务格，参考文件：
-[tileset.json](http://117.172.238.229:5010/server/index.php?s=/api/attachment/visitFile&sign=0ab5df3d1bffef8339f8137e49986948 "[tileset.json")
 ## 备注
 - 该系列API功能必须开启 Cesium for Unreal 插件，该插件直接在官方商城下载安装到引擎即可，为免费插件
 - 更多返回错误代码请看首页的错误代码描述
